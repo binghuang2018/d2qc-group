@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        d2QC
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Welcome to Prof. Huang’s Data-driven Quantum Chemistry (d2qc) research group. As part of Prof. Zhuang’s eH2 team, we specialize in harnessing machine learning and big data to push the boundaries of quantum chemistry. Our mission is to develop innovative methods and models that enhance the understanding of chemical bonds and reactions, increase the accuracy and efficiency of quantum chemical calculations, and address real-world challenges, such as the discovery and design of novel catalysts.
+
   
   - block: collection
     content:
